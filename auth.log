@@ -1,0 +1,16 @@
+Mar  8 12:01:05 server sshd[12345]: Accepted publickey for admin from 192.168.1.50 port 50432 ssh2
+Mar  8 12:02:11 server sshd[12346]: Invalid user root from 203.0.113.45 port 39482
+Mar  8 12:02:13 server sshd[12346]: Failed password for invalid user root from 203.0.113.45 port 39482 ssh2
+Mar  8 12:02:15 server sshd[12346]: Connection closed by invalid user root 203.0.113.45 port 39482 [preauth]
+Mar  8 12:05:01 server CRON[12400]: pam_unix(cron:session): session opened for user root by (uid=0)
+Mar  8 12:05:01 server CRON[12400]: pam_unix(cron:session): session closed for user root
+Mar  8 12:10:33 server sshd[12501]: Failed password for admin from 198.51.100.22 port 44321 ssh2
+Mar  8 12:10:35 server sshd[12501]: Failed password for admin from 198.51.100.22 port 44321 ssh2
+Mar  8 12:11:00 server sshd[12505]: Invalid user ftp from 203.0.113.45 port 39485
+Mar  8 12:11:02 server sshd[12505]: Failed password for invalid user ftp from 203.0.113.45 port 39485 ssh2
+Mar  8 12:15:22 server sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/cat /var/log/auth.log
+Mar  8 12:20:05 server sshd[12600]: Failed password for root from 114.114.114.114 port 12345 ssh2
+Mar  8 12:20:07 server sshd[12600]: Failed password for root from 114.114.114.114 port 12345 ssh2
+Mar  8 12:20:09 server sshd[12600]: Failed password for root from 114.114.114.114 port 12345 ssh2
+Mar  8 12:20:11 server sshd[12600]: Failed password for root from 114.114.114.114 port 12345 ssh2
+Mar  8 12:25:00 server sshd[12700]: Accepted password for backup_user from 10.0.0.5 port 22222 ssh2

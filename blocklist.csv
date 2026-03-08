@@ -1,0 +1,4 @@
+IP,Country,Abuse Score,Attempts,Usernames
+114.114.114.114,CN,0%,4,root
+203.0.113.45,Unknown,0%,2,ftp;root
+198.51.100.22,Unknown,0%,2,admin
